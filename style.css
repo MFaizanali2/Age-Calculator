@@ -12,7 +12,7 @@ body{
     font-family: "inter";
     background-color: #2782e3;
 }
-#container{
+.container{
     background-color: #eee;
     min-height:  100px;
     width: 520px;
@@ -25,16 +25,18 @@ body{
     margin: 0;
     display: block;
     overflow: hidden;
+    float: none;
 }
-.main {
+.main h3{
     font-size: 26px;
-    font-weight: normal;
+    text-align: center;
     font-family: sans-serif;
     margin-top: 0;
-    text-align: center;
-    padding: 5px;
-    color: dodgerblue;
     box-shadow: 0px 2px #bababa;
+    font-weight: normal;
+    padding: 5px;
+    color: #2782e3;
+    background: white;
 }
 .block{
     width: 135px;
