@@ -25,5 +25,5 @@ function age(){
     let dayDiff = d2 - d1;
 
     document.getElementById("age").innerHTML = `
-    Your age is ${age} year ${monthDiff} and ${dayDiff} days`
+    Your age is ${age} year ${monthDiff} month and ${dayDiff} days`
 }
