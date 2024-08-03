@@ -43,14 +43,15 @@ body{
     padding: 5px 20px;
     margin-left: 20px;
     display: inline-block;
+    /* float: left; */
     
 }
 .title{
-    color: #1073d0;
     font-size: 20px;
+    text-align: left;
     font-family: sans-serif;
     letter-spacing: 0.5px;
-    word-spacing: 2.7px;
-    text-align: left;
+    color: #1073d0;
     font-weight: normal;
+    word-spacing: 2.7px;
 }
