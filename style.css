@@ -13,9 +13,9 @@ body{
     background-color: #2782e3;
 }
 #container{
-    width: 520px;
     background-color: #eee;
     min-height:  100px;
+    width: 520px;
     height: auto;
     margin: 100px auto;
     border-radius: 5px;
@@ -36,7 +36,7 @@ body{
     color: dodgerblue;
     box-shadow: 0px 2px #bababa;
 }
-.content{
+.block{
     width: 135px;
     padding: 5px 20px;
     margin-left: 20px;
